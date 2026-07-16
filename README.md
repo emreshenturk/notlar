@@ -1,1 +1,1 @@
-**(Notlar)[https://emreshenturk.github.io/notlar/]**
+**[Notlar](https://emreshenturk.github.io/notlar/)**
