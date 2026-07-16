@@ -32,3 +32,9 @@ jobs:
           path: public
 
       - uses: actions/deploy-pages@v4
+- run: npm ci
+
+- name: Install Quartz plugins
+  run: npx quartz plugin install
+
+- run: npx quartz build
